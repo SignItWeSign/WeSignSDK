@@ -1,0 +1,6 @@
+framework module WeSignSDK {
+  umbrella header "WeSignSDK.h"
+
+  export *
+  module * { export * }
+}
